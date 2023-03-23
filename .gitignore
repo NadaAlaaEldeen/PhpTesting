@@ -2,6 +2,7 @@ vendor
 composer.jason
 composer.lock
 .phpunit.cache
+.vscode
 # the previous files upload by command
 # composer require --dev phpunit/phpunit ^10
 
