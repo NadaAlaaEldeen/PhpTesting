@@ -1,0 +1,8 @@
+vendor
+composer.jason
+composer.lock
+# the previous files upload by command
+# composer require --dev phpunit/phpunit ^10
+
+#to test the test file
+# vendor\bin\phpunit tests
