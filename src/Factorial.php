@@ -10,11 +10,7 @@ class Factorial
         if (is_float($num)) {
             return null;
         }
-       // Check if the parameter not equals false
-        if ($num === false) {
-            return null;
-        }
-
+       
         // Check if the parameter is non-negative
         if ($num < 0) {
             return null;
